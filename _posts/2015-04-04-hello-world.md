@@ -3,7 +3,6 @@ layout: post
 title: On Identity
 date: 2015-04-04 16:00:00
 summary: Writing for myself and everyone else
-categories: philosophy
 ---
 
 #### Who
